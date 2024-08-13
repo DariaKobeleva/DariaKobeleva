@@ -16,6 +16,7 @@ Junior iOS Developer.
 - **Swift**
 - **UIKit**
 - **Core Data**
+- **Realm**
 - **SwiftUI**
 - **CocoaPods**
 - **RESTful APIs**
