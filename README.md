@@ -1,10 +1,9 @@
 <p align="left">
-  <strong>Hello! I'm Daria Kobeleva 👋</strong>
   <img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" align="right" style="margin-left: 10px;">
 </p>
 
 <h1 align="center">
-  <blink>👋 Hi There</blink>
+👋 Hi there! I'm Daria Kobeleva 
 </h1>
 
 <p align="left">
