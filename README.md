@@ -1,7 +1,7 @@
-<h1 align="center">Hello! I'm Daria Kobeleva 👋</h1>
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/8c87eed0-ad6b-43c9-8b6f-cbd14c921cb4" width="100" style="border-radius: 50%">
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1 style="flex-grow: 1; text-align: center;">Hello! I'm Daria Kobeleva 👋</h1>
+  <img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100">
+</div>
 
 <p align="center">
 Junior iOS Developer.
