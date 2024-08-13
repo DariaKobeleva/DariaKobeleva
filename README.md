@@ -21,13 +21,14 @@
 - **JavaScript**
 
 ### Technologies & Tools:
-- **UIKit**
-- **Core Data**
-- **Realm**
-- **SwiftUI**
-- **CocoaPods**
-- **RESTful APIs**
+- **UIKit**  
+- **Core Data**  
+- **Realm**  
+- **SwiftUI**  
+- **CocoaPods**  
+- **RESTful APIs**  
 - **Git**
+
 
 
 ## Contact with me
