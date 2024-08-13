@@ -11,6 +11,16 @@ Junior iOS Developer.
 🚀 Always eager to learn and explore new technologies.  
 🌱 Currently improving my skills in iOS development.
 
+## Tech Stack
+
+- **Swift**
+- **UIKit**
+- **Core Data**
+- **SwiftUI**
+- **CocoaPods**
+- **RESTful APIs**
+- **Git**
+
 ## Contact with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daria-kobeleva)  
