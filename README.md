@@ -4,33 +4,8 @@
 </p>
 
 <h1 align="center">
-  <span class="wave">👋</span> Hi There
+  <blink>👋 Hi There</blink>
 </h1>
-
-<style>
-@keyframes wave-animation {
-  0% { transform: rotate(0.0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10.0deg); }
-  60% { transform: rotate(0.0deg); }
-  100% { transform: rotate(0.0deg); }
-}
-
-.wave {
-  display: inline-block;
-  animation: wave-animation 2.5s infinite;
-  transform-origin: 70% 70%;
-}
-
-h1 {
-  font-size: 3em;
-  color: #333;
-  text-align: center;
-}
-</style>
 
 <p align="left">
   Junior iOS Developer.
