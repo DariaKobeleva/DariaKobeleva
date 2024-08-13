@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-👋 Hi there! I'm Daria Kobeleva 
+👋 Hi there! I'm Daria 
 </h1>
 
 <p align="left">
