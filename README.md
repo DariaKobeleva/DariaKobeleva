@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Daria Kobeleva 👋</h1>
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/8c87eed0-ad6b-43c9-8b6f-cbd14c921cb4" width="100 style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/8c87eed0-ad6b-43c9-8b6f-cbd14c921cb4" width="100" style="border-radius: 50%;">
 </p>
 
 <p align="center">
