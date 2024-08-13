@@ -16,7 +16,11 @@
 
 ## Tech Stack
 
+### Languages:
 - **Swift**
+- **JavaScript**
+
+### Technologies & Tools:
 - **UIKit**
 - **Core Data**
 - **Realm**
@@ -24,6 +28,7 @@
 - **CocoaPods**
 - **RESTful APIs**
 - **Git**
+
 
 ## Contact with me
 
