@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" style="border-radius: 50%; margin-right: 10px;">
   <span style="font-size: 24px; font-weight: bold;">Hello! I'm Daria Kobeleva 👋</span>
 </p>
