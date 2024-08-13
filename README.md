@@ -6,7 +6,7 @@
 </table>
 
 <p align="left">
-  **Junior iOS Developer.**
+  **Junior iOS Developer**
 </p>
 
 ## About me
