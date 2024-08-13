@@ -1,9 +1,9 @@
-<div style="display: flex; align-items: center; justify-content: center;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" style="border-radius: 50%; margin-right: 10px;">
-  <h1 style="margin: 0;">Hello! I'm Daria Kobeleva 👋</h1>
-</div>
+  <span style="font-size: 24px; font-weight: bold;">Hello! I'm Daria Kobeleva 👋</span>
+</p>
 
-<p align="left">
+<p align="center">
   Junior iOS Developer.
 </p>
 
