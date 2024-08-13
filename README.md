@@ -1,10 +1,10 @@
 <p align="left">
   <strong>Hello! I'm Daria Kobeleva 👋</strong>
-  <img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" align="right" margin-left: 10px;">
+  <img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" align="right" style="border-radius: 50%; margin-left: 10px;">
 </p>
 
 <p align="left">
-  **Junior iOS Developer.**
+  <strong>Junior iOS Developer.</strong>
 </p>
 
 ## About me
