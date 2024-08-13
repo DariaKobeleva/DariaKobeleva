@@ -1,5 +1,5 @@
 <p align="left">
-  <strong><h2>Hello! I'm Daria Kobeleva 👋</h2></strong>
+  <strong><h3>Hello! I'm Daria Kobeleva 👋</h3></strong>
   <img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" align="right" margin-left: 10px;">
 </p>
 
