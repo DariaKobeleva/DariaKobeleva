@@ -1,12 +1,12 @@
-<table>
-  <tr>
-    <td><h1 style="font-weight: bold;">Hello! I'm Daria Kobeleva 👋</h1></td>
-    <td><img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" style="border-radius: 50%; margin-left: 10px;"></td>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle;"><h1 style="font-weight: bold;">Hello! I'm Daria Kobeleva 👋</h1></td>
+    <td style="border: none; vertical-align: middle;"><img src="https://github.com/user-attachments/assets/6db73eb2-41f4-45d3-8b2d-859319a18673" width="100" style="border-radius: 50%; margin-left: 10px;"></td>
   </tr>
 </table>
 
 <p align="left">
-  **Junior iOS Developer**
+  **Junior iOS Developer.**
 </p>
 
 ## About me
