@@ -3,7 +3,7 @@
   <h1 style="margin: 0;">Hello! I'm Daria Kobeleva 👋</h1>
 </div>
 
-<p align="center">
+<p align="left">
   Junior iOS Developer.
 </p>
 
