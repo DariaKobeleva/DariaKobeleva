@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I am Kobeleva Daria</h1>
+<h1 align="center">Hello! I'm Daria Kobeleva 👋</h1>
 
 <p align="center">
-I am a Junior iOS Developer
+Junior iOS Developer.
 </p>
 
 ## About me
