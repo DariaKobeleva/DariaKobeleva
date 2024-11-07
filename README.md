@@ -7,7 +7,7 @@
 </h1>
 
 <p align="left">
-  Junior iOS Developer.
+  iOS Developer.
 </p>
 
 ## About me
